@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Sravan!👋
 
 🔭 I'm currently pursuing my B.Tech (ECE) fourth year.  
 🌱 I’m currently learning from Coursera and Kaggle.  
